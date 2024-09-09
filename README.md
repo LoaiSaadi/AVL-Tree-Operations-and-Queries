@@ -1,5 +1,5 @@
 # AVL Tree Operations and Queries
-###### This document explores the functionalities of AVL trees, detailing their operations and associated time complexities. AVL trees are a self-balancing binary search tree where the height difference between the left and right subtrees of any node is at most one, ensuring efficient operations.
+#### This document explores the functionalities of AVL trees, detailing their operations and associated time complexities. AVL trees are a self-balancing binary search tree where the height difference between the left and right subtrees of any node is at most one, ensuring efficient operations.
 
 ### Operations
 
@@ -50,7 +50,8 @@
 
 • Time Complexity: 𝑂(𝑛), where n is the total number of nodes in both trees.
 
-
-Time Complexity
+### Summary
+## Time Complexity
 • Insertion, Search, Lowest Common Ancestor, Range Sum: 𝑂(log 𝑛)
+
 • DeleteAll, Merge: 𝑂(𝑛)
