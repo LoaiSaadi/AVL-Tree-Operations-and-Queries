@@ -5,7 +5,9 @@
 
 ## 1) Insertion (x)
 • Description: Adds a new node with key x to the AVL tree.
+
 • Behavior: If a node with key x already exists, no changes are made.
+
 • Time Complexity: 𝑂(log 𝑛), where n is the number of nodes in the tree.
 
 ## 2) Search (x)
